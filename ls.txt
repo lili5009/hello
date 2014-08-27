@@ -4,3 +4,9 @@ drwxr-xr-x   4 lion  staff  136 Aug 27 23:07 ..
 drwxr-xr-x  12 lion  staff  408 Aug 27 23:07 .git
 -rw-r--r--   1 lion  staff   24 Aug 27 23:07 README.md
 -rw-r--r--   1 lion  staff    0 Aug 27 23:08 ls.txt
+total 16
+drwxr-xr-x   5 lion  staff  170 Aug 27 23:23 .
+drwxr-xr-x   4 lion  staff  136 Aug 27 23:07 ..
+drwxr-xr-x  13 lion  staff  442 Aug 27 23:23 .git
+-rw-r--r--   1 lion  staff   24 Aug 27 23:07 README.md
+-rw-r--r--   1 lion  staff  260 Aug 27 23:23 ls.txt
